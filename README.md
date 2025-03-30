@@ -1,2 +1,2 @@
 # Synthetic-Control-Causal-Inference-with-Covid-Data
-Using synthetic interventions on time series to study how pandemic mobility restrictions impacted pandemic mortality. (MITx IDS.S24x Recitation #2)
+Class project showing how synthetic interventions on time series can be used to study how pandemic mobility restrictions impacted pandemic mortality. (MITx IDS.S24x Recitation #2)
